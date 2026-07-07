@@ -119,5 +119,3 @@ Plain HTML, CSS, and vanilla JavaScript in a single file. No frameworks, no buil
 ## License
 
 MIT License
-
-Add a license of your choice (e.g. [MIT](https://choosealicense.com/licenses/mit/)) as a `LICENSE` file.
