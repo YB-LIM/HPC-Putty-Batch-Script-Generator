@@ -9,7 +9,8 @@ No installation, no build step, no external dependencies — it's one self-conta
 Author: Youngbin LIM <br />
 Contact: lyb0684@naver.com
 
-<img width="1314" height="777" alt="TN" src="https://github.com/user-attachments/assets/fa7c2f66-be54-4c6c-b505-f42e4732d070" />
+<img width="1672" height="941" alt="TN" src="https://github.com/user-attachments/assets/49140255-3566-4aa3-8dbb-9fa2c74f24d2" />
+
 
 ---
 
