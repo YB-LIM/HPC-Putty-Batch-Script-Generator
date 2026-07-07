@@ -6,7 +6,7 @@ A single-file, browser-based tool that generates a Windows batch (`.bat`) script
 
 No installation, no build step, no external dependencies — it's one self-contained HTML file that runs entirely in the browser. You can also download it and open it offline.
 
-Author: Youngbin LIM
+Author: Youngbin LIM \n
 Contact: lyb0684@naver.com
 
 ---
